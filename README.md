@@ -65,3 +65,7 @@ To launch the continuous transceiver loop with live Matplotlib visualization:
 python realtime_OFDM.py
 ```
 *Press Ctrl+C to stop the real-time reception and safely destroy the Tx buffer.*
+
+https://github.com/user-attachments/assets/771e2543-48f7-4dfc-af04-1c4f0cde2a68
+
+
